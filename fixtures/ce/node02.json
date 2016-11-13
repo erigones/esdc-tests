@@ -1,0 +1,88 @@
+[
+{
+    "pk": "714054eb-1ed9-3b18-9c57-d5d749fe3a92", 
+    "model": "vms.node", 
+    "fields": {
+        "status": 2, 
+        "enc_json": "KGRwMQpTJ3pwb29scycKcDIKKGRwMwpTJ3pvbmVzJwpwNAooZHA1ClMnY29uZmlnJwpwNgpjY29w\neV9yZWcKX3JlY29uc3RydWN0b3IKcDcKKGNkamFuZ28udXRpbHMuZGF0YXN0cnVjdHVyZXMKU29y\ndGVkRGljdApwOApjX19idWlsdGluX18KZGljdApwOQooZHAxMApWem9uZXMKcDExCmc3CihnOApn\nOQooZHAxMgpWbWlycm9yLTAKcDEzCihscDE0ClZjMHQxZDAKcDE1CmFWYzB0MmQwCnAxNgphc3RS\ncDE3CihkcDE4ClMna2V5T3JkZXInCnAxOQoobHAyMApnMTMKYXNic3RScDIxCihkcDIyCmcxOQoo\nbHAyMwpnMTEKYXNic1Mnc2l6ZScKcDI0Ckk0NjAyODgKc3NzUyd6YWJiaXgnCnAyNQooZHAyNgpW\nbWFpbnRlbmFuY2VfdHlwZQpwMjcKVjAKc1Zncm91cHMKcDI4CihscDI5CihkcDMwClZpbnRlcm5h\nbApwMzEKVjAKc1ZmbGFncwpwMzIKVjAKc1Zncm91cGlkCnAzMwpWNwpzVm5hbWUKcDM0ClZDb21w\ndXRlIG5vZGVzCnAzNQpzYXNWbWFpbnRlbmFuY2VzCnAzNgoobHAzNwpzVmlwbWlfdXNlcm5hbWUK\ncDM4ClYKc1Zzbm1wX2Rpc2FibGVfdW50aWwKcDM5ClYwCnNWaXBtaV9hdXRodHlwZQpwNDAKVjAK\nc1ZpcG1pX2Rpc2FibGVfdW50aWwKcDQxClYwCnNWbGFzdGFjY2VzcwpwNDIKVjAKc1Zzbm1wX2Vy\ncm9yCnA0MwpWCnNWaXBtaV9wcml2aWxlZ2UKcDQ0ClYyCnNWYXZhaWxhYmxlCnA0NQpWMgpzVmpt\neF9lcnJvcgpwNDYKVgpzVmpteF9hdmFpbGFibGUKcDQ3ClYwCnNWbWFjcm9zCnA0OAoobHA0OQpz\nVm1haW50ZW5hbmNlaWQKcDUwClYwCnNWdGVtcGxhdGVzCnA1MQoobHA1MgooZHA1MwpWaG9zdGlk\nCnA1NApWMApzVnRlbXBsYXRlaWQKcDU1ClYwCnNhc1Zzbm1wX2F2YWlsYWJsZQpwNTYKVjAKc1Zz\ndGF0dXMKcDU3ClYwCnNWaW50ZXJmYWNlcwpwNTgKKGxwNTkKKGRwNjAKVmludGVyZmFjZWlkCnA2\nMQpWMTQKcDYyCnNnNTQKVjEwMzExCnA2MwpzVmlwCnA2NApWMTcyLjE4LjAuMTAyCnA2NQpzVnVz\nZWlwCnA2NgpWMQpzVmRucwpwNjcKVm5vZGUwMi5kZXYuZXJpZ29uZXMuY29tCnA2OApzVm1haW4K\ncDY5ClYxCnNWdHlwZQpwNzAKVjEKc1Zwb3J0CnA3MQpWMTAwNTAKcDcyCnNhc1Zob3N0CnA3MwpW\nNzE0MDU0ZWItMWVkOS0zYjE4LTljNTctZDVkNzQ5ZmUzYTkyCnA3NApzVmRpc2FibGVfdW50aWwK\ncDc1ClYxNDMwOTAxOTY0CnA3NgpzVmlwbWlfcGFzc3dvcmQKcDc3ClYKc1ZpcG1pX2F2YWlsYWJs\nZQpwNzgKVjAKc1ZtYWludGVuYW5jZV9zdGF0dXMKcDc5ClYwCnNWc25tcF9lcnJvcnNfZnJvbQpw\nODAKVjAKc1ZpcG1pX2Vycm9yCnA4MQpWCnNWcHJveHlfaG9zdGlkCnA4MgpWMApzZzU0ClYxMDMx\nMQpwODMKc2czNApWbm9kZTAyLmRldi5lcmlnb25lcy5jb20KcDg0CnNWcGFyZW50VGVtcGxhdGVz\nCnA4NQoobHA4NgooZHA4NwpnNTUKVjEwMjYwCnA4OApzYShkcDg5Cmc1NQpWMTAyNjMKcDkwCnNh\nKGRwOTEKZzU1ClYxMDI3MQpwOTIKc2EoZHA5MwpnNTUKVjEwMjcyCnA5NApzYShkcDk1Cmc1NQpW\nMTAyODcKcDk2CnNhKGRwOTcKZzU1ClYxMDI4OApwOTgKc2FzVmpteF9lcnJvcnNfZnJvbQpwOTkK\nVjAKc1ZqbXhfZGlzYWJsZV91bnRpbApwMTAwClYwCnNnMzIKVjAKc1ZlcnJvcgpwMTAxClZHZXQg\ndmFsdWUgZnJvbSBhZ2VudCBmYWlsZWQ6IGNhbm5vdCBjb25uZWN0IHRvIFtbMTcyLjE4LjAuMTAy\nXToxMDA1MF06IFs0XSBJbnRlcnJ1cHRlZCBzeXN0ZW0gY2FsbApwMTAyCnNWbWFpbnRlbmFuY2Vf\nZnJvbQpwMTAzClYwCnNWaXBtaV9lcnJvcnNfZnJvbQpwMTA0ClYwCnNWZXJyb3JzX2Zyb20KcDEw\nNQpWMTQzMDkwMTIyMApwMTA2CnNzUydzc2hrZXknCnAxMDcKVnNzaC1yc2EgQUFBQUIzTnphQzF5\nYzJFQUFBQUJJd0FBQVFFQTRnRExjN0JpSEJtbzZqTUUraHJTeFNUdDZSNElsVExhcVJPU1RVWFdt\nUnQza1B5NTRDVGVhd05KSmQxRUFzeGVBOGd6ZkZFZ1ZWODQrRVBDcXdwZzB3ajVxaHgvd0xac0dW\naDcvYXBOZlJsbDgxdnlyekVJZUV1am9tVjJWUmF3a0tsZGw2ZXhPTFljdUliWDRtNTZHakRzZlRw\nc1pOd2tGTW13d0w2U0VOampkSXRuTXM3NkdsQ2R2Yk1PSkJiVzBsSFVBZENDZ0xXU0hBR1ZFalJM\nVmlnSklQSk16WThsVFRXU1hFWVljSHJXeGkvUkhoVVZKaW5Mem93T0kxOXYrUGlVNXA2UzJwSkJM\na0lSSkVPczlaNS9wQ2UvSHdmRTdtUXBIbUZWZWY1Qnk2MFRBcnJ4eFJSc3dCSGZEMGhQbkgzVmhP\nMW9TTnVuTGxDdzU5cXBYUT09IG5vZGUwMi5kZXYuZXJpZ29uZXMuY29tCnAxMDgKc1MnYXV0aG9y\naXplZF9rZXlzJwpwMTA5ClZzc2gtcnNhIEFBQUFCM056YUMxeWMyRUFBQUFCSXdBQUFRRUFxeUVj\nZkE4YzhkTllqV3RXaC82enI5bWVYdExkaGU4VjNna1Z3NEFjWVFjZGU1aG5rWHFzNWl1eDd4U0pJ\nZ0lwV0VIOXVoUzNaRDNtQkwzZU95ZEFLdVcvdWJ6a0FCMXJNMXZ4b0FibmtxLzFHREl2MzY0NEdr\nKzlWK3lpV0E5WHJsbDBhV1FzUXo1dnBPV1UzbkFtQXVTWlp0YmpxNjFkQW1xa3hKMGpJdDRMbWR4\nbVpVbktKVS9RUDdDcHFtTDJieHArd2FpUkozU1ltTTE3emthTUc0VGczRmY5VHVtN0ZzeUdRdkFv\nU1JoVGptWU9EQWtqemdvRmdaQWZQa014RkoxODJIK01kNCtVRkxFbFlVblhBMDkrT3RXU1pHdXd5\nc0tNWTVVMXhQQ3Rud2Z4Mm1iZ0JpSjdXSHJmcERHaUdwSnI1djNjdVVVUHBnQkVJL3MrbFE9PSBo\nZWFkbm9kZS5kZXYuZXJpZ29uZXMuY29tXHUwMDBhc3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFB\nQkl3QUFBUUVBNGdETGM3QmlIQm1vNmpNRStoclN4U1R0NlI0SWxUTGFxUk9TVFVYV21SdDNrUHk1\nNENUZWF3TkpKZDFFQXN4ZUE4Z3pmRkVnVlY4NCtFUENxd3BnMHdqNXFoeC93TFpzR1ZoNy9hcE5m\nUmxsODF2eXJ6RUllRXVqb21WMlZSYXdrS2xkbDZleE9MWWN1SWJYNG01NkdqRHNmVHBzWk53a0ZN\nbXd3TDZTRU5qamRJdG5Nczc2R2xDZHZiTU9KQmJXMGxIVUFkQ0NnTFdTSEFHVkVqUkxWaWdKSVBK\nTXpZOGxUVFdTWEVZWWNIcld4aS9SSGhVVkppbkx6b3dPSTE5ditQaVU1cDZTMnBKQkxrSVJKRU9z\nOVo1L3BDZS9Id2ZFN21RcEhtRlZlZjVCeTYwVEFycnh4UlJzd0JIZkQwaFBuSDNWaE8xb1NOdW5M\nbEN3NTlxcFhRPT0gbm9kZTAyLmRldi5lcmlnb25lcy5jb21cdTAwMGFzc2gtcnNhIEFBQUFCM056\nYUMxeWMyRUFBQUFEQVFBQkFBQUNBUURpTEVSL1hsaFQ2bXZUS1dNVSt1eDRFMkFqVXQ1R0JqNHdE\nZHp6M1hkdDVGNFptRHpRWVNoa1BzLzdFWnQ3U1htK2llYW9hNmVlMysvS29tTk1SQ3pVZE4wZHR5\nNWRpR1NKa3hvdVJiLzFDUVFHT00rSyt6d25ZR3dvS2ZvNUQyYVZYMmFxeFVWeFBoNE4xMlZnNVZ5\nUWl2ckQ3ck43b3dwZWdVcUMrTWFhcEJjTnd3dys5MU9tVi9JWVJNNkRSRzF1bGYyU3NjRUtLc3ph\nZTJ6MjRnVGNBRHlDUjdRRjBKSUNDc1l5cjNZWVhrUkRwZVQvUnFtbWdXUmhZVk5haUsveUdnZGV5\nVG1ZeWlHaVhzdUZXNnd4Nk4zWm1VTW12VmVmQXE0cndIYVdDdi9meU5jbkNvbSszU3VtWXlHbDBF\nbnlyd1VwWXcxZGZ4VW9wTDhrMnNMMWROZVF0Nm0vaW1WQU9DY0s0NlBJOWkzTGtpamprdmI3N0Nk\nbEJnMnhjQUFxNmVQN3lxTFZIWFFlUUtGVnQrQ3E2eU9OcE1JQmN1VVZwUnppRnBXR1AwemR0dFpn\nK0V4bWR5MkxveDRzU0NYa0JybHJPTGxwTVkwYjEvV1lZZ1NDYUszU3NMUTI1eVJsWnZYcmNkWFY3\nVlc3NDJkSWRMdkUvSG1xaXFUbDYySU4wOUF4dGFCNm5mU3BGVVhnSTIwR0JxQWRmejdMZTBpaXdy\nWlJHMGpsbDJlR1lUUFRwVXJucHd4b0FCQlUwQlpTUG5rZGtnRXNrME1Cb3FPNE1TajZQZ2ZyVjdz\nbFVjR05Wa2tYcXdoRWxKcUlUNk94U0EwWDJBc20vY1BjeUxHaUNxZ3hTSkVKL3Y3a3dBdUFLbWhP\nV212WVZZSG1Zck9kcFlxSEI1UG9Edz09IHN1cHBvcnRAZXJpZ29uZXNfMjAxNDA3MTcKcDExMApz\nUydkaXNraW5mbycKcDExMQooZHAxMTIKVmMxdDBkMApwMTEzCihkcDExNApTJ1JNVicKcDExNQpW\neWVzCnAxMTYKc1MnVklEJwpwMTE3ClZLaW5nc3RvbgpwMTE4CnNTJ1BJRCcKcDExOQpWRGF0YVRy\nYXZlbGVyIDIuMApwMTIwCnNTJ1NTRCcKcDEyMQpWbm8KcDEyMgpzUyd0eXBlJwpwMTIzClZVU0IK\ncDEyNApzZzI0Ckk3NTAyCnNzVmMwdDJkMApwMTI1CihkcDEyNgpnMTE1ClZubwpwMTI3CnNnMTE3\nClZTVDk1MDA2MjBOUwpwMTI4CnNnMTE5ClY4MVk5NzE1IDgxWTM4NTZJQk0KcDEyOQpzZzEyMQpW\nbm8KcDEzMApzZzEyMwpWU0NTSQpwMTMxCnNnMjQKSTQ3Njk0MApzc1ZjMHQxZDAKcDEzMgooZHAx\nMzMKZzExNQpWbm8KcDEzNApzZzExNwpWU1Q5NTAwNjIwTlMKcDEzNQpzZzExOQpWODFZOTcxNSA4\nMVkzODU2SUJNCnAxMzYKc2cxMjEKVm5vCnAxMzcKc2cxMjMKVlNDU0kKcDEzOApzZzI0Ckk0NzY5\nNDAKc3NzUydzeXNpbmZvJwpwMTM5CihkcDE0MApWTGluayBBZ2dyZWdhdGlvbnMKcDE0MQooZHAx\nNDIKVmFnZ3IwCnAxNDMKKGRwMTQ0ClZJbnRlcmZhY2VzCnAxNDUKKGxwMTQ2ClZibngwCnAxNDcK\nYVZibngxCnAxNDgKYXNWTEFDUCBtb2RlCnAxNDkKVmFjdGl2ZQpwMTUwCnNzc1ZCb290IFRpbWUK\ncDE1MQpWMTQzMDkwMTg3NgpwMTUyCnNWSG9zdG5hbWUKcDE1MwpWbm9kZTAyLmRldi5lcmlnb25l\ncy5jb20KcDE1NApzVkhXIEZhbWlseQpwMTU1ClZTeXN0ZW0geApwMTU2CnNWQ1BVIFRvdGFsIENv\ncmVzCnAxNTcKSTgKc1ZacG9vbCBDcmVhdGlvbgpwMTU4CkkxNDMwODIzNzgzCnNWQm9vdCBQYXJh\nbWV0ZXJzCnAxNTkKKGRwMTYwClZjb25zb2xlCnAxNjEKVnR0eWEKcDE2MgpzVnNtYXJ0b3MKcDE2\nMwpWdHJ1ZQpwMTY0CnNzVlN5c3RlbSBUeXBlCnAxNjUKVlN1bk9TCnAxNjYKc1ZDUFUgVmlydHVh\nbGl6YXRpb24KcDE2NwpWdm14CnAxNjgKc1ZTS1UgTnVtYmVyCnAxNjkKVlh4WHhYeFgKcDE3MApz\nVlpwb29sIERpc2tzCnAxNzEKVmMwdDFkMCxjMHQyZDAKcDE3MgpzVkNQVSBUeXBlCnAxNzMKVklu\ndGVsKFIpIFhlb24oUikgQ1BVIEU1NTIwIEAgMi4yN0dIegpwMTc0CnNWU2VyaWFsIE51bWJlcgpw\nMTc1ClZLUTUxNUtLCnAxNzYKc1ZWaXJ0dWFsIE5ldHdvcmsgSW50ZXJmYWNlcwpwMTc3CihkcDE3\nOApzVk1hbnVmYWN0dXJlcgpwMTc5ClZJQk0KcDE4MApzVkxpdmUgSW1hZ2UKcDE4MQpWMjAxNTAy\nMjZUMTYyNTI4WgpwMTgyCnNWSFcgVmVyc2lvbgpwMTgzClYwMApwMTg0CnNWU2V0dXAKcDE4NQpW\nZmFsc2UKcDE4NgpzVlpwb29sIFNpemUgaW4gR2lCCnAxODcKSTQ0OQpzVlByb2R1Y3QKcDE4OApW\nU3lzdGVtIHgzNjUwIE0yIC1bNzk0NzMyR10tCnAxODkKc1ZDUFUgUGh5c2ljYWwgQ29yZXMKcDE5\nMApJMQpzVkRhdGFjZW50ZXIgTmFtZQpwMTkxClZkZXYKcDE5MgpzVk5ldHdvcmsgSW50ZXJmYWNl\ncwpwMTkzCihkcDE5NApWYWdncjAKcDE5NQooZHAxOTYKVk5JQyBOYW1lcwpwMTk3CihscDE5OApW\nYWRtaW4KcDE5OQphVnN0b3JhZ2UKcDIwMAphVmV4dGVybmFsCnAyMDEKYVZpbnRlcm5hbApwMjAy\nCmFzVkxpbmsgU3RhdHVzCnAyMDMKVnVwCnAyMDQKc1ZNQUMgQWRkcmVzcwpwMjA1ClZlNDoxZjox\nMzpiMzpmZjozOApwMjA2CnNWaXA0YWRkcgpwMjA3ClYxNzIuMTguMC4xMDIKcDIwOApzc1Zibngw\nCnAyMDkKKGRwMjEwClZOSUMgTmFtZXMKcDIxMQoobHAyMTIKc1ZMaW5rIFN0YXR1cwpwMjEzClZ1\ncApwMjE0CnNWTUFDIEFkZHJlc3MKcDIxNQpWZTQ6MWY6MTM6YjM6ZmY6MzgKcDIxNgpzVmlwNGFk\nZHIKcDIxNwpWCnNzVmJueDEKcDIxOAooZHAyMTkKVk5JQyBOYW1lcwpwMjIwCihscDIyMQpzVkxp\nbmsgU3RhdHVzCnAyMjIKVnVwCnAyMjMKc1ZNQUMgQWRkcmVzcwpwMjI0ClZlNDoxZjoxMzpiMzpm\nZjozYQpwMjI1CnNWaXA0YWRkcgpwMjI2ClYKc3NzVlpwb29sCnAyMjcKVnpvbmVzCnAyMjgKc1ZV\nVUlECnAyMjkKVjcxNDA1NGViLTFlZDktM2IxOC05YzU3LWQ1ZDc0OWZlM2E5MgpwMjMwCnNWU0RD\nIFZlcnNpb24KcDIzMQpWNy4wCnAyMzIKc1ZNaUIgb2YgTWVtb3J5CnAyMzMKVjE2MzcyCnAyMzQK\nc1ZEaXNrcwpwMjM1CihkcDIzNgpWYzB0MmQwCnAyMzcKKGRwMjM4ClZTaXplIGluIEdCCnAyMzkK\nSTUwMApzc1ZjMHQxZDAKcDI0MAooZHAyNDEKVlNpemUgaW4gR0IKcDI0MgpJNTAwCnNzc1ZWTSBD\nYXBhYmxlCnAyNDMKSTAxCnNWWnBvb2wgUHJvZmlsZQpwMjQ0ClZtaXJyb3IKcDI0NQpzcy4=\n", 
+        "cpu_coef": "1.00", 
+        "hostname": "node02.dev.erigones.com", 
+        "is_head": false, 
+        "created": "2015-05-05T11:34:12.880Z", 
+        "ram_coef": "1.00", 
+        "config": "#\n# This file was auto-generated and must be source-able by bash.\n#\n\n# admin_nic is the nic admin_ip will be connected to for headnode zones.\naggr0_aggr=e4:1f:13:b3:ff:38,e4:1f:13:b3:ff:3a\naggr0_lacp_mode=active\n\ninternal_nic=aggr0\nexternal_nic=aggr0\nstorage_nic=aggr0\n\nadmin_nic=aggr0\nadmin_ip=172.18.0.102\nadmin_netmask=255.255.255.0\nadmin_network=172.18.0.0\nadmin_gateway=172.18.0.102\n\nheadnode_default_gateway=172.18.0.1\n\ndns_resolvers=8.8.8.8,8.8.4.4\ndns_domain=dev.erigones.com\n\nntp_hosts=0.sk.pool.ntp.org\ncompute_node_ntp_hosts=172.18.0.102\ndatacenter_name=dev\nhostname=node02.dev.erigones.com\n\n# Erigones SDDC core zone variables\nmgmt_admin_ip=172.18.0.10\n\nmon_admin_ip=172.18.0.12\n\ndns_admin_ip=172.18.0.13", 
+        "changed": "2015-05-06T08:45:40.068Z", 
+        "ram": 16372, 
+        "is_compute": true, 
+        "is_backup": false, 
+        "ram_free": 16372, 
+        "address": "172.18.0.102", 
+        "owner": 1, 
+        "status_change": "2015-05-06T08:45:28.729Z", 
+        "cpu": 8, 
+        "cpu_free": 8
+    }
+},
+
+{
+    "pk": 2,
+    "model": "vms.storage",
+    "fields": {
+        "size_coef": "0.60",
+        "name": "zones@node02.dev.erigones.com",
+        "created": "2015-05-05T11:34:12.892Z",
+        "changed": "2015-05-06T08:45:40.075Z",
+        "access": 1,
+        "alias": "zones",
+        "owner": 1,
+        "size_free": 275865,
+        "size": 459776,
+        "type": 1,
+        "desc": "Default local storage pool"
+    }
+},
+
+{
+    "pk": 2,
+    "model": "vms.nodestorage",
+    "fields": {
+        "node": "714054eb-1ed9-3b18-9c57-d5d749fe3a92",
+        "zpool": "zones",
+        "images": [],
+        "storage": 2,
+        "dc": [
+            1
+        ]
+    }
+},
+
+{
+    "pk": 5,
+    "model": "vms.dcnode",
+    "fields": {
+        "node": "714054eb-1ed9-3b18-9c57-d5d749fe3a92",
+        "ram_free": 16372,
+        "ram": 16372,
+        "dc": 1,
+        "strategy": 1,
+        "priority": 100,
+        "disk_free": 275865,
+        "cpu_free": 8,
+        "disk": 275865,
+        "cpu": 8
+    }
+},
+
+{
+    "pk": 57,
+    "model": "vms.ipaddress",
+    "fields": {
+        "usage": 3,
+        "ip": "172.18.0.102",
+        "note": "node02.dev.erigones.com",
+        "vm": null,
+        "subnet": "d42bc4c3-ba17-43ee-a02a-74e667bd41fa"
+    }
+}
+
+]

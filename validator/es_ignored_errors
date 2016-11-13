@@ -1,0 +1,11 @@
+Attribute “results” not allowed on element “input” at this point
+Attribute “placeholder” not allowed on element “select” at this point
+Attribute “autocapitalize” not allowed on element “input” at this point
+Attribute “autocorrect” not allowed on element “input” at this point
+Attribute “placeholder” is only allowed when the input type is
+Bad value “hidden” for attribute “type” on element “input”
+The string “.*” is not an absolute URL
+The first child “option” element of a “select” element with a “required” attribute, and without a “multiple” attribute, and without a “size” attribute whose value is greater than “1”, must have either an empty “value” attribute, or must have no text content. Consider either adding a placeholder option label, or adding a “size” attribute with a value equal to the number of “option” elements
+A “select” element with a “required” attribute, and without a “multiple” attribute, and without a “size” attribute whose value is greater than “1”, must have a child “option” element
+Table columns in range [0-9]\+…[0-9]\+ established by element “t[dh]” have no cells beginning in them
+Table column [0-9]\+ established by element “t[dh]” has no cells beginning in it
