@@ -74,7 +74,7 @@ def _exp_compare(exp, text, equal=False):
     return True
 
 
-def _test(cmd, exp, scode=200, rc=0, custom_test=None, dc='default'):
+def _test(cmd, exp, scode=200, rc=0, custom_test=None, dc='main'):
     caller = inspect.stack()[1][3]
     global TESTS_RUN
     TESTS_RUN += 1
