@@ -710,7 +710,7 @@ def _vm_define_nic_1_set_200_2():
 
 def _vm_define_nic_2_create_400():
     cmd = 'create /vm/test99.example.com/define/nic/2 -net lan -ip 10.10.91.31'
-    exp = {'status': 'FAILURE', 'result': {'ip': ['Object with name=10.10.91.31 is already taken.']}}
+    exp = {'status': 'FAILURE', 'result': {'ip': ['Object with name=10.10.91.31 is already used as default address.']}}
     _test(cmd, exp, 400, 1)
 
 
